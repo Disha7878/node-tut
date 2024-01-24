@@ -1,0 +1,9 @@
+  hi, this is my first text file
+ hi, this is my second text file
+   The merged content is 
+  hi, this is my first text file
+ hi, this is my second text file
+   The merged content is 
+  hi, this is my first text file
+ hi, this is my second text file
+ 
